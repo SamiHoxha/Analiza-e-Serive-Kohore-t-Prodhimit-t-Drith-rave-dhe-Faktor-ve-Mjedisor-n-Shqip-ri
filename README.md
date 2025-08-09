@@ -1,0 +1,2 @@
+# Analiza-e-Serive-Kohore-t-Prodhimit-t-Drith-rave-dhe-Faktor-ve-Mjedisor-n-Shqip-ri
+Ky projekt analizon ndryshimet dhe trendet afatgjata të prodhimit të drithërave në Shqipëri në lidhje me përdorimin e plehrave kimike dhe emetimet e dioksidit të karbonit (CO2). Përdoren metoda statistikore dhe modele parashikuese për të vlerësuar ndikimin e këtyre faktorëve në prodhimtarinë bujqësore gjatë viteve.
